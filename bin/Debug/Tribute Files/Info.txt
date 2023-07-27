@@ -1,0 +1,6 @@
+Save_Simulated_Games: 1
+Games_Simulated: 8 
+Enable_Scream: 1
+Enable_Reaping: 0
+Enable_Training: 0
+Custom_Names: 0

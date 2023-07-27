@@ -1,0 +1,3 @@
+Save_Simulated_Games: 1
+Games_Simulated: 1
+Enable_Scream: 0

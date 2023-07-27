@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1597666543 source:c:\users\user\desktop\thgs - copy\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<algorithm>
+	<cmath>
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	"wtypes.h"
+
+1601980224 source:c:\users\user\desktop\thgs\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<bits/stdc++.h>
+	<sys/types.h>
+	<dirent.h>
+	"wtypes.h"
+
+1601702574 source:c:\users\user\desktop\thgs\resource.rc
+
+1601702574 source:c:\users\user\desktop\project 1\thgs\resource.rc
+
+1601982590 source:c:\users\user\desktop\project 1\thgs\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<bits/stdc++.h>
+	<sys/types.h>
+	<dirent.h>
+	"wtypes.h"
+
+1628038005 source:c:\users\ronda\desktop\thgs\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<bits/stdc++.h>
+	<sys/types.h>
+	<dirent.h>
+	"wtypes.h"
+
+1601702576 source:c:\users\ronda\desktop\thgs\resource.rc
+
